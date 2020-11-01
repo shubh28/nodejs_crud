@@ -14,6 +14,6 @@ You must also have a database of the following format
 
 Then type following commands in the terminal or cmd:
 
-1. npm innstall
+1. npm install
 2. node server.js
 
